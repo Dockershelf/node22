@@ -7,8 +7,7 @@ Forwarded: https://github.com/simdjson/simdjson/commit/5d35e7ca
 
 --- a/deps/simdjson/simdjson.h
 +++ b/deps/simdjson/simdjson.h
-@@ -6259,16 +6259,16 @@ public:
-   /** Prints one character **/
+@@ -6260,15 +6260,15 @@
    simdjson_inline void one_char(char c);
  
    simdjson_inline void call_print_newline() {
