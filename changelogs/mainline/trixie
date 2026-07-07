@@ -1,4 +1,4 @@
-nodejs22 (22.0.0-1+trixie1) trixie; urgency=medium
+nodejs-22 (22.0.0-1+trixie1) trixie; urgency=medium
 
   * Initial Dockershelf packaging for Node.js 22.
 
